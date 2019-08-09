@@ -183,6 +183,10 @@ body, html {
   transition: all .5s ease-in-out 1s
 }
 
+.timer-options a{
+  font-size: .8em
+}
+
 .close {
   position: absolute;
   right: 50px;
